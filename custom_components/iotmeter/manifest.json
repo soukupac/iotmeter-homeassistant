@@ -1,0 +1,7 @@
+{
+  "name": "IoTMeter",
+  "country": "CZ",
+  "homeassistant": "2023.1.0",
+  "domains": ["iotmeter"],
+  "render_readme": true
+}
